@@ -11,11 +11,11 @@ message: >-
   the information in your own work.
 type: dataset
 authors:
-  - given-names: "Raquel"
-    family-names: "Manzano Garcia"
-    affiliation: "CRUK"
+  - given-names: Raquel
+    family-names: Manzano Garcia
+    affiliation: Cancer Research UK
     orcid: "https://orcid.org/0000-0002-5124-8992"
-    alias: "edit author contribution roles"
+    alias: 'writing - original draft; conceptualisation; software'
 repository-code: "https://github.com/cambiotraining/working-with-git"
 url: "https://cambiotraining.github.io/working-with-git/"
 license: CC-BY-4.0
