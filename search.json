@@ -1,0 +1,98 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Working with Git",
+    "section": "",
+    "text": "Overview\nInclude a one-paragraph summary of the course here.",
+    "crumbs": [
+      "{{< iconify fa6-brands github size=lg title='CRIT GitHub' >}}",
+      "Welcome",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Overview</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#overview",
+    "href": "index.html#overview",
+    "title": "Working with Git",
+    "section": "",
+    "text": "Learning Objectives\n\n\n\n\nList course learning objectives here.\nThese describe concepts the learners should grasp and techniques they should be able to use by the end of the course.\nYou can think of these as completing the phrase “after this course, the participant should be able to…”\nThey are not supposed to be as detailed as the learning objectives of each section, but more high-level.\n\n\n\n\nTarget Audience\nBrief description of target audience here.\n\n\nPrerequisites\nDetail any prerequisite skills needed to attend this course, with links to other relevant materials/courses if possible.\n\n\n\nExercises\nExercises in these materials are labelled according to their level of difficulty:\n\n\n\n\n\n\n\nLevel\nDescription\n\n\n\n\n  \nExercises in level 1 are simpler and designed to get you familiar with the concepts and syntax covered in the course.\n\n\n  \nExercises in level 2 combine different concepts together and apply it to a given task.\n\n\n  \nExercises in level 3 require going beyond the concepts and syntax introduced to solve new problems.",
+    "crumbs": [
+      "{{< iconify fa6-brands github size=lg title='CRIT GitHub' >}}",
+      "Welcome",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Overview</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#citation-authors",
+    "href": "index.html#citation-authors",
+    "title": "Working with Git",
+    "section": "Citation & Authors",
+    "text": "Citation & Authors\nPlease cite these materials if:\n\nYou adapted or used any of them in your own teaching.\nThese materials were useful for your research work. For example, you can cite us in the methods section of your paper: “We carried our analyses based on the recommendations in YourReferenceHere”.\n\n\nYou can cite these materials as:\n\nManzano Garcia, R. (2025). \"Working with Git\". \"https://cambiotraining.github.io/working-with-git/\"\n\nOr in BibTeX format:\n@misc{YourReferenceHere,\n  author = {Manzano Garcia, Raquel},\n  month = {9},\n  title = {\"Working with Git\"},\n  url = {\"https://cambiotraining.github.io/working-with-git/\"},\n  year = {2025}\n}\nAbout the authors:\nRaquel Manzano Garcia  \nAffiliation: Cancer Research UK Roles: writing - original draft; conceptualisation; software",
+    "crumbs": [
+      "{{< iconify fa6-brands github size=lg title='CRIT GitHub' >}}",
+      "Welcome",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Overview</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#acknowledgements",
+    "href": "index.html#acknowledgements",
+    "title": "Working with Git",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\n\n\nList any other sources of materials that were used.\nOr other people that may have advised during the material development (but are not authors).",
+    "crumbs": [
+      "{{< iconify fa6-brands github size=lg title='CRIT GitHub' >}}",
+      "Welcome",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Overview</span>"
+    ]
+  },
+  {
+    "objectID": "setup.html",
+    "href": "setup.html",
+    "title": "Data & Setup",
+    "section": "",
+    "text": "Data\nThe data used in these materials is provided as a zip file. Download and unzip the folder to your Desktop to follow along with the materials.\nDownload",
+    "crumbs": [
+      "{{< iconify fa6-brands github size=lg title='CRIT GitHub' >}}",
+      "Welcome",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Data & Setup</span>"
+    ]
+  },
+  {
+    "objectID": "setup.html#software",
+    "href": "setup.html#software",
+    "title": "Data & Setup",
+    "section": "Software",
+    "text": "Software\n\nQuarto\nTo develop and render the course materials website, you will need to install Quarto:\n\nDownload and install Quarto (available for all major OS).\nIf you are developing materials using executable .qmd documents, it is recommended that you also install the extensions for your favourite IDE (e.g. RStudio, VS Code).\nIf you are developing materials using JupyterLab or Jupyter Notebooks, please install Jupytext.\n\nUse the paired notebook feature to have synchronised .ipynb/.qmd files. Only .qmd files should be pushed to the repository (.ipynb files have been added to .gitignore).",
+    "crumbs": [
+      "{{< iconify fa6-brands github size=lg title='CRIT GitHub' >}}",
+      "Welcome",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Data & Setup</span>"
+    ]
+  },
+  {
+    "objectID": "materials/00-template.html",
+    "href": "materials/00-template.html",
+    "title": "3  Template Page",
+    "section": "",
+    "text": "3.1 Section\nHeadings for material sections start at level 2.\nMore guidelines for content available here: https://cambiotraining.github.io/quarto-course-template/materials/02-content_guidelines.html",
+    "crumbs": [
+      "{{< iconify fa6-brands github size=lg title='CRIT GitHub' >}}",
+      "Section title",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Template Page</span>"
+    ]
+  },
+  {
+    "objectID": "materials/00-template.html#summary",
+    "href": "materials/00-template.html#summary",
+    "title": "3  Template Page",
+    "section": "3.2 Summary",
+    "text": "3.2 Summary\n\n\n\n\n\n\nKey Points\n\n\n\n\nLast section of the page is a bulleted summary of the key points",
+    "crumbs": [
+      "{{< iconify fa6-brands github size=lg title='CRIT GitHub' >}}",
+      "Section title",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Template Page</span>"
+    ]
+  }
+]
